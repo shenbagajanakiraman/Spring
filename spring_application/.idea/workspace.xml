@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3fdd2d0-d172-4291-938f-8e075e9a779a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/MainSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/SwitchFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/ToyPack/ToyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/editor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/editor/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/editor/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/editor/TextFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/insurance/CarInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/insurance/ClaimManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/insurance/HealthInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/insurance/InsuranceClaim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/insurance/InsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/insurance/MainInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/switches/ElectricAppliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/switches/ElectricSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/switches/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/switches/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/switches/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/employeebean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/employeebean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/DeQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/DeQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/IteratorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/StackDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/DeQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/DeQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SolidPrinciples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/EditorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/InsuranceClaim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/SwitchOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/SwitchOperation.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+              <folding>
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/employeebean.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-825">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-core</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/ApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Print.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/emp.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/employeebean,xml.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/employeebean.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/employeebean.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Employee.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring_application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="21" />
+    <option name="width" value="1024" />
+    <option name="height" value="747" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="youtubedemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5683616" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stackroute" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Application" />
+      <module name="spring_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.youtubedemo.Client" />
+      <module name="spring_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.youtubedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3fdd2d0-d172-4291-938f-8e075e9a779a" name="Default Changelist" comment="" />
+      <created>1557719041323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557719041323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15444015" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Navigate" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04021448" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32952252" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Navigate" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25622058" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.060321715" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32952252" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Client.java</url>
+          <line>12</line>
+          <properties class="com.stackroute.youtubedemo.Client" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ApplicationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Print.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/emp.fxml" />
+    <entry file="file://$PROJECT_DIR$/demo/demo.iml" />
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/employeebean.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/youtubedemo/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/employeebean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring_application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5683616" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5683616" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- bean definitions here -->
+
+    <bean id ="acc1" class ="com.stackroute.tasks.sample.AccountVariable">
+        <constructor-arg index="0" value="001"/>
+        <constructor-arg index="1" value="Arjun"/>
+    </bean>
+    
+    <bean id = "acc2" class="com.stackroute.tasks.sample.AccountVariable">
+        <property name="accNo" value="002"/>
+        <property name="accName" value="Reshma"/>
+    </bean>
+
+    <bean id ="acc" class="com.stackroute.tasks.sample.Account">
+        <constructor-arg ref="acc2"/>
+    </bean>
+<!--    -->
+<!--    <bean id="accob" class="com.stackroute.tasks.sample.Account">-->
+<!--        <constructor-arg type="byName" value="gargi"/>-->
+<!--    </bean>-->
+<!--    -->
+    
+    
+    
+</beans>

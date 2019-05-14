@@ -1,0 +1,37 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="employee" class="com.stackroute.youtubedemo.Employee">
+        <property name="emp1" ref="emp1" />
+        <property name="emp2" ref="emp2" />
+        <property name="emp3" ref="emp3"/>
+    </bean>
+
+    <!-- bean definitions here -->
+    <bean id="emp1" class="com.stackroute.youtubedemo.Employee">
+        <property name="eid" value="2" />
+        <property name="ename" value="Arjun" />
+        <property name="eaddress" value="Nagarjuna Enclave, JP Nagar" />
+    </bean>
+
+    <bean id="emp2" class="com.stackroute.youtubedemo.Employee">
+        <property name="eid" value="3" />
+        <property name="ename" value="Praba" />
+        <property name="eaddress" value="78-Ayyappa nagar" />
+    </bean>
+
+    <bean id="emp3" class="com.stackroute.youtubedemo.Employee">
+        <property name="eid" value="4" />
+        <property name="ename" value="Gokul" />
+        <property name="eaddress" value="PSNA CET" />
+    </bean>
+
+
+
+
+
+</beans>
